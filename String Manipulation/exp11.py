@@ -1,0 +1,5 @@
+print('BANGLA'.lower())
+print('AbC'.upper())
+print('Forhad'.casefold())
+print('forHAD'.swapcase())
+print(len('bangladesh'))
