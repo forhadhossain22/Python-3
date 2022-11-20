@@ -1,0 +1,3 @@
+x = 'Python'
+
+print(x)
